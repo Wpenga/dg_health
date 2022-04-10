@@ -15,4 +15,4 @@ QYWX_AM=''
 ## 效果展示
 ![示例1](https://cdn.jsdelivr.net/gh/Wpenga/image@main/20220410132900.png)
 
-![示例2](https://cdn.jsdelivr.net/gh/Wpenga/image@main/20220410133135.png)
+![示例2](https://cdn.jsdelivr.net/gh/Wpenga/image@main/20220410133519.png)
