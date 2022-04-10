@@ -4,8 +4,11 @@ import time
 import requests
 import json
 import sys
-QYWX_AM='ww6ebe8d89c498594e,-bU_VUM7Jur8cwVVFBQe6Prl4Sd2kxUIheU6HZdNigw,WuZePeng,1000002,2aLM4MplMcxPA8GSMtyxx7lAUqITQbVgtzfp3k5975YKJZ5Ps4RXslqh7nTCySLJ2'
-local_student="201941417432,Wp1314546"
+#通知参数（选填）教程
+QYWX_AM=''
+#账户参数 
+#格式 学号,密码   学号1,密码1@学号2,密码2
+# local_student=""
 #获取token
 def login_start():
     headers = {
