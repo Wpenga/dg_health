@@ -4,7 +4,7 @@ import time
 import requests
 import json
 import sys
-#通知参数（选填）教程
+#通知参数（选填）教程 https://no.wpeng.cf/f59e28f9aeac425b8c7baa5cab4b7534#f9e7ddf1622b4b4aab5135af627e9bd6
 QYWX_AM=''
 #账户参数 
 #格式 学号,密码   学号1,密码1@学号2,密码2
